@@ -1,4 +1,4 @@
-# Debugging Scenario weeweeewoowoo
+# Debugging Scenario
 ## What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?  
 I am using a Windows computer and code in VSCode. I view the server from Google Chrome.  
   
