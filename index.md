@@ -23,7 +23,8 @@ Thank you for the suggestion, the bug seemed to be exactly what you assumed. Onc
   * One more file added with name:  StringServer.java  
 * The contents of each file *before* fixing the bug  
   * All original files from wavelet were kept the same  
-  * StringServer.java had such code:  <br>
+  * StringServer.java had such code:  
+
 ```
 import java.io.IOException;
 import java.net.URI;
