@@ -1,4 +1,4 @@
-# Debugging Scenario
+# Debugging Scenario asl;kdfh
 ## What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?  
 I am using a Windows computer and code in VSCode. I view the server from Google Chrome.  
   
@@ -24,7 +24,7 @@ Thank you for the suggestion, the bug seemed to be exactly what you assumed. Onc
 * The contents of each file *before* fixing the bug  
   * All original files from wavelet were kept the same  
   * StringServer.java had such code:  
-
+  
 ```
 import java.io.IOException;
 import java.net.URI;
