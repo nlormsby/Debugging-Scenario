@@ -24,7 +24,7 @@ Thank you for the suggestion, the bug seemed to be exactly what you assumed. Onc
 * The contents of each file *before* fixing the bug  
   * All original files from wavelet were kept the same  
   * StringServer.java had such code:  
-```
+  ```
 import java.io.IOException;
 import java.net.URI;
 
@@ -61,7 +61,7 @@ class StringServer {
         Server.start(port, new Handler());
     }
 }
-```
+```  
 * The full command line (or lines) you ran to trigger the bug  
   * `javac Server.java StringServer.java`  
   * `java StringServer 4080`  
